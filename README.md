@@ -1,8 +1,8 @@
+@@ -22,7 +22,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-
-  ##
+### Últimos videos:
+- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
+- [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
+- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
+- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
+- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
