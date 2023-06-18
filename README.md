@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Anthony Santos 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![SantosAnthony GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosAnthony&theme=github_dark)](https://github.com/SantosAnthony/github-readme-stats)
+[![SantosAnthony GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosAnthony&theme=github_dark&hide=stars,commits,prs,issues,contribs)](https://github.com/SantosAnthony/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
