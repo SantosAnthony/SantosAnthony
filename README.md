@@ -1,16 +1,12 @@
 <p><img src="https://github.com/SantosAnthony/SantosAnthony/blob/main/imganes/ANTHONY%20SANTOS%20(2).png?raw=true" width="100%"/></p>
 
-<div>
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-santos-656b81270/)
-</div>
-<div>
-  [![SantosAnthony GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosAnthony&theme=github_dark&show=reviews&show_icons=true)](https://github.com/SantosAnthony/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosAnthony)](https://github.com/SantosAnthony/github-readme-stats&theme=github_dark)
-</div>
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-santos-656b81270/)
+  
 [![SantosAnthony GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosAnthony&theme=github_dark&show=reviews&show_icons=true)](https://github.com/SantosAnthony/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosAnthony)](https://github.com/SantosAnthony/github-readme-stats&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosAnthony&layout=donut&theme=github_dark)](https://github.com/SantosAnthony/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
