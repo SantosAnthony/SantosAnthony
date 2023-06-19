@@ -1,4 +1,4 @@
-<img src="https://github.com/SantosAnthony/SantosAnthony/blob/main/imganes/ANTHONY%20SANTOS%20(2).png?raw=true" >
+<img src="https://github.com/SantosAnthony/SantosAnthony/blob/main/imganes/ANTHONY%20SANTOS%20(2).png?raw=true" \>
 ## Olá! Eu sou o Anthony Santos 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
