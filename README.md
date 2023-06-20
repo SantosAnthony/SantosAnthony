@@ -20,4 +20,4 @@
 </div><br/>
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-![Snake animation](https://github.com/SantosAnthony)
+![snake gif](https://github.com/SantosAnthony/SantosAnthony/blob/output/github-contribution-grid-snake.svg)
