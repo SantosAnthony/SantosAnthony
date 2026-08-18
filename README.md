@@ -97,7 +97,7 @@ Construo aplicações web de ponta a ponta — da modelagem do banco de dados à
 
 Estou aberto a oportunidades e colaborações. A melhor forma de me encontrar é pelo LinkedIn ou e-mail.
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-santos-656b81270/">
   <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
