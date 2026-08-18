@@ -4,21 +4,19 @@
 
 # Anthony Silva Santos
 
-**Arquitetura, desenvolvimento e entrega de software**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=560&height=45&lines=Desenvolvedor%20Full-Stack;Do%20banco%20de%20dados%20%C3%A0%20interface;React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript" alt="Desenvolvedor Full-Stack" />
 
-Desenvolvedor Full-Stack · Belém, Pará — Brasil 🇧🇷
+Belém, Pará — Brasil 🇧🇷
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/anthony-santos-656b81270/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1220" alt="LinkedIn" />
 </a>
 <a href="mailto:SEU@EMAIL.com">
-  <img src="https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-mail" />
+  <img src="https://img.shields.io/badge/E--mail-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1220" alt="E-mail" />
 </a>
 <a href="https://SEU-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portfólio-0B1220?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0B1220" alt="Portfólio" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&style=flat-square&color=22D3EE&label=Visitas+no+perfil" alt="Visitas no perfil" />
 
 </div>
 
@@ -29,42 +27,33 @@ Desenvolvedor Full-Stack · Belém, Pará — Brasil 🇧🇷
 Construo aplicações web de ponta a ponta — da modelagem do banco de dados à interface que o usuário toca. Meu foco está em escrever código legível, testável e que sobreviva ao próximo desenvolvedor que abrir o repositório.
 
 - 🔭 Atualmente trabalhando em **[NOME DO PROJETO ATUAL]**
-- 🌱 Aprofundando em **[O QUE VOCÊ ESTÁ ESTUDANDO — ex: arquitetura de microsserviços, testes automatizados]**
+- 🌱 Aprofundando em **[O QUE VOCÊ ESTÁ ESTUDANDO]**
 - 💬 Fale comigo sobre **React, Node.js, TypeScript e boas práticas de API**
 - 📫 Contato: **SEU@EMAIL.com**
-- ⚡ Curiosidade: **[ALGO PESSOAL E CURTO]**
 
 ---
 
 ## Stack
 
+<div align="center">
+
 **Front-end**
 
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark&perline=4" alt="TypeScript, React, Next.js, Tailwind CSS" />
 
 **Back-end**
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python&theme=dark&perline=4" alt="Node.js, NestJS, Express, Python" />
 
 **Banco de dados & Infraestrutura**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws&theme=dark&perline=4" alt="PostgreSQL, MongoDB, Docker, AWS" />
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
-![Jest](https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325)
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<img src="https://skillicons.dev/icons?i=git,prisma,jest,figma&theme=dark&perline=4" alt="Git, Prisma, Jest, Figma" />
+
+</div>
 
 ---
 
@@ -72,9 +61,9 @@ Construo aplicações web de ponta a ponta — da modelagem do banco de dados à
 
 | Projeto | Descrição | Stack | Links |
 |---|---|---|---|
-| **[NOME DO PROJETO 1]** | O problema que ele resolve, em uma linha. | React · Node · PostgreSQL | [Código](https://github.com/SEU-USUARIO/repo-1) · [Demo](https://link-da-demo.com) |
-| **[NOME DO PROJETO 2]** | O problema que ele resolve, em uma linha. | Next.js · Prisma · AWS | [Código](https://github.com/SEU-USUARIO/repo-2) · [Demo](https://link-da-demo.com) |
-| **[NOME DO PROJETO 3]** | O problema que ele resolve, em uma linha. | TypeScript · NestJS · Docker | [Código](https://github.com/SEU-USUARIO/repo-3) · [Demo](https://link-da-demo.com) |
+| **[NOME DO PROJETO 1]** | O problema que ele resolve, em uma linha. | React · Node · PostgreSQL | [Código](https://github.com/SantosAnthony/repo-1) · [Demo](https://link-da-demo.com) |
+| **[NOME DO PROJETO 2]** | O problema que ele resolve, em uma linha. | Next.js · Prisma · AWS | [Código](https://github.com/SantosAnthony/repo-2) · [Demo](https://link-da-demo.com) |
+| **[NOME DO PROJETO 3]** | O problema que ele resolve, em uma linha. | TypeScript · NestJS · Docker | [Código](https://github.com/SantosAnthony/repo-3) · [Demo](https://link-da-demo.com) |
 
 ---
 
@@ -82,10 +71,12 @@ Construo aplicações web de ponta a ponta — da modelagem do banco de dados à
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantosAnthony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantosAnthony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&locale=pt-br" alt="Estatísticas do GitHub de Anthony Silva Santos" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosAnthony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Linguagens mais usadas" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosAnthony&bg_color=0B1220&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Gráfico de atividade" width="98%" />
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/SantosAnthony/SantosAnthony/output/snake.svg" alt="Cobrinha percorrendo o gráfico de contribuições" width="98%" />
 
 </div>
 
@@ -95,12 +86,10 @@ Construo aplicações web de ponta a ponta — da modelagem do banco de dados à
 
 ### Vamos conversar
 
-Estou aberto a oportunidades e colaborações. A melhor forma de me encontrar é pelo LinkedIn ou e-mail.
+Estou aberto a oportunidades e colaborações.
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-santos-656b81270/">
-  <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/anthony-santos-656b81270/">
+  <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
 </a>
-
-<sub>“Código bom não é o que funciona hoje, é o que ainda faz sentido daqui a seis meses.”</sub>
 
 </div>
