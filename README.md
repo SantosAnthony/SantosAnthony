@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Anthony Silva Santos — Full-Stack Developer" width="100%" />
+<img src="banner-pro-b-arquitetura-3x.png" alt="Anthony Silva Santos — Full-Stack Developer" width="100%" />
 
 # Anthony Silva Santos
 
