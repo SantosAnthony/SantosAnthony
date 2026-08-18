@@ -82,10 +82,10 @@ Construo aplicações web de ponta a ponta — da modelagem do banco de dados à
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantosAnthony&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosAnthony&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Linguagens mais usadas" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0B1220&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Gráfico de atividade" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantosAnthony&bg_color=0B1220&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Gráfico de atividade" width="98%" />
 
 </div>
 
